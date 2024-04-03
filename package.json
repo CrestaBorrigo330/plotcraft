@@ -1,0 +1,44 @@
+{
+  "name": "plotcraft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrestaBorrigo330/plotcraft.git"
+  },
+  "author": "CrestaBorrigo330",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrestaBorrigo330/plotcraft/issues"
+  },
+  "homepage": "https://github.com/CrestaBorrigo330/plotcraft#readme",
+  "dependencies": {
+    "@yindongfang/keybinding": "^1.0.1",
+    "blob": "^0.1.0",
+    "cross-env": "^7.0.3",
+    "cytoscape": "^3.28.1",
+    "is-array": "^1.0.1",
+    "is-bool": "^0.0.3",
+    "is-falsy": "^0.0.1",
+    "is-null": "^1.0.1",
+    "is-object": "^1.0.2",
+    "is-odd": "^3.0.1",
+    "jquery": "^3.7.1",
+    "lazy-store-loader": "^2.0.3",
+    "octokit": "^3.1.2",
+    "querystring": "^0.2.1",
+    "uuid": "^9.0.1",
+    "webpack": "^5.91.0",
+    "cyto-processor": "^1.0.0",
+    "cyto-simulator": "^1.0.0",
+    "cyto-crawler": "^1.0.0",
+    "cyto-designer": "^1.0.0",
+    "cyto-notifier": "^1.0.0",
+    "cyto-transformer": "^1.0.0",
+    "[object Object]": "^1.0.0"
+  }
+}
